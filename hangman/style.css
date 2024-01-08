@@ -1,0 +1,35 @@
+body {
+    display:flow-root;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+    margin: 0;
+    background-color: chocolate;
+}
+
+#word-display {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+#input-container {
+    text-align:center;
+}
+
+#letter-input {
+    width: 115px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+#submit-btn {
+    font-size: 20px;
+}
+
+.hangman {
+    align-self:start;
+}
+
+.h2 {
+    align-self:end;
+}
